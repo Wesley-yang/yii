@@ -1,0 +1,104 @@
+request body = <TemplateSMS>
+                    <to>15026635821</to> 
+                    <appId>8a48b55147d7c67d0147d885ae440176</appId>
+                    <templateId>1</templateId>
+                    <datas><data>6532</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f8947d7c8680147d88564f10183/SMS/TemplateSMS?sig=BA90BDDCBB3461813A760D2EA51BAF42
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160513145022</dateCreated><smsMessageSid>0b1672d69beb487b88db6804e178f0b5</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>13636690679</to> 
+                    <appId>8a48b55147d7c67d0147d885ae440176</appId>
+                    <templateId>1</templateId>
+                    <datas><data>6532</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f8947d7c8680147d88564f10183/SMS/TemplateSMS?sig=DBD01CF342BF64BB80F6DBC7EEC2D892
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>112310</statusCode><statusMsg>【短信】应用未上线，模板短信接收号码外呼受限</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>15026635821</to> 
+                    <appId>8a48b55147d7c67d0147d885ae440176</appId>
+                    <templateId>1</templateId>
+                    <datas><data>6532</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f8947d7c8680147d88564f10183/SMS/TemplateSMS?sig=EB55322BE123C753CCBE5B97F729EAF7
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160513145956</dateCreated><smsMessageSid>e32dd1fba09c4cde80fedc73d1f0ddb3</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>15026635821</to> 
+                    <appId>8a48b55147d7c67d0147d885ae440176</appId>
+                    <templateId>1</templateId>
+                    <datas><data>6532</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f8947d7c8680147d88564f10183/SMS/TemplateSMS?sig=ED905DBBC21AC54AA2245FAC39F2AA5E
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160513150822</dateCreated><smsMessageSid>bf200265fc0b4697b27d7dd6f921e239</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>15026635821</to> 
+                    <appId>8a48b55147d7c67d0147d885ae440176</appId>
+                    <templateId>1</templateId>
+                    <datas><data>6532</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f8947d7c8680147d88564f10183/SMS/TemplateSMS?sig=8C17468A6247CC226A01AE73F5732561
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160513151335</dateCreated><smsMessageSid>41aea7ac5d2e4800935327d665ea271b</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>15026635821</to> 
+                    <appId>8a48b55147d7c67d0147d885ae440176</appId>
+                    <templateId>1</templateId>
+                    <datas><data>990930</data><data>2</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f8947d7c8680147d88564f10183/SMS/TemplateSMS?sig=103398F03FF8BC80566F04E02F2EEFFB
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160513152337</dateCreated><smsMessageSid>5bc117c36c654b3fb9133f776b655214</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>15026635821</to> 
+                    <appId>8a48b55147d7c67d0147d885ae440176</appId>
+                    <templateId>1</templateId>
+                    <datas><data>156021</data><data>2</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f8947d7c8680147d88564f10183/SMS/TemplateSMS?sig=CDD0028631D6C665E102CD32DED4CCF5
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>160040</statusCode><statusMsg>验证码超出同模板同号码天发送上限</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>15026635821</to> 
+                    <appId>8a48b55147d7c67d0147d885ae440176</appId>
+                    <templateId>1</templateId>
+                    <datas><data>766384</data><data>2</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f8947d7c8680147d88564f10183/SMS/TemplateSMS?sig=BEAEA4B47C6D35EDE250892A60409224
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>160040</statusCode><statusMsg>验证码超出同模板同号码天发送上限</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>15026635821</to> 
+                    <appId>8a48b55147d7c67d0147d885ae440176</appId>
+                    <templateId>1</templateId>
+                    <datas><data>106624</data><data>2</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f8947d7c8680147d88564f10183/SMS/TemplateSMS?sig=B6270092DF579FABDDA1A7FA2B5928D2
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>160040</statusCode><statusMsg>验证码超出同模板同号码天发送上限</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>15026635821</to> 
+                    <appId>8a48b55147d7c67d0147d885ae440176</appId>
+                    <templateId>1</templateId>
+                    <datas><data>613414</data><data>2</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f8947d7c8680147d88564f10183/SMS/TemplateSMS?sig=0B34DEE51283BA475D773416C771CFF3
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>160040</statusCode><statusMsg>验证码超出同模板同号码天发送上限</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>15026635821</to> 
+                    <appId>8a48b55147d7c67d0147d885ae440176</appId>
+                    <templateId>1</templateId>
+                    <datas><data>037714</data><data>2</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f8947d7c8680147d88564f10183/SMS/TemplateSMS?sig=2410521D5B641C63B20E230447516878
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>160040</statusCode><statusMsg>验证码超出同模板同号码天发送上限</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>15026635821</to> 
+                    <appId>8a48b55147d7c67d0147d885ae440176</appId>
+                    <templateId>1</templateId>
+                    <datas><data>234577</data><data>2</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f8947d7c8680147d88564f10183/SMS/TemplateSMS?sig=2885EEFA38A5B33DDBF09D0E6627254C
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160518113325</dateCreated><smsMessageSid>d5be54e7127c40ab84c3edcf0048e662</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>15026635821</to> 
+                    <appId>8a48b55147d7c67d0147d885ae440176</appId>
+                    <templateId>1</templateId>
+                    <datas><data>956918</data><data>2</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/aaf98f8947d7c8680147d88564f10183/SMS/TemplateSMS?sig=24048CDB1781B99905907507012C9EC4
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160525182217</dateCreated><smsMessageSid>c02de51b32214dfab63417cfb4d0fc14</smsMessageSid></TemplateSMS></Response>

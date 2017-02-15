@@ -1,0 +1,22 @@
+权限控制 /admin/access-control  
+
+	路由 /admin/route
+
+	权限 /admin/permission
+
+	角色 /admin/role
+
+	分配 /admin/assignment
+
+	菜单 /admin/menu
+
+设置icon
+
+{"icon": "fa fa-gears", "visible": true}
+
+visible 如果为false，则菜单隐藏
+
+
+首页：
+
+192.168.254.100
